@@ -1,0 +1,9 @@
+[
+  {
+    "id": "hello-world",
+    "cronSpec": "* * * * *",
+    "dockerImageURL": "hello-world:latest",
+    "dockerCmd": [],
+    "dockerParams": "{}"
+  }
+]

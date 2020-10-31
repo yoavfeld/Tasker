@@ -1,0 +1,4 @@
+- running tasker: ./tasker
+- an hello-world task will run every minute
+- to trigger the task on demand run:
+curl "http://localhost:8080/runTask?id=hello-world"
